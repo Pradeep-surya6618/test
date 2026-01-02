@@ -3,6 +3,7 @@ export default function Home() {
     <div>
     <h1>hello world</h1>
     <p>hello world</p>
+    <button>click me</button>
 
     </div>
   );
